@@ -55,7 +55,7 @@ Ubícate en la carpeta raíz del proyecto `mi_chat_llm`:
 ```bash
 cd mi_chat_llm
 
-git clone 
+git clone https://github.com/SantiagoMenacaP/chat-llm-local.git
 ```
 
 ### 2. Instalar dependencias
